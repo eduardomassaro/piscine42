@@ -1,0 +1,5 @@
+Credentials cache: API:7B40B006-97E5-4CEB-B757-6DB8DC89FFBF
+        Principal: epagne-m@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Sep 30 18:18:41 2019  Oct  7 18:18:41 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR

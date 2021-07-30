@@ -1,0 +1,6 @@
+Credentials cache: API:5EA35049-DABE-4C74-A110-CFA6354492AC
+        Principal: epagne-m@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Oct  2 02:47:29 2019  Oct  9 02:47:29 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Oct  2 02:56:25 2019  Oct  9 02:47:29 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
